@@ -1,7 +1,7 @@
 {
-  "name": "vision-light",
+  "name": "cvfront",
   "version": "0.0.1",
-  "description": "Light version of Vision Project",
+  "description": "front end application to visualice your events",
   "productName": "Vision-light",
   "author": "natiacostap <natiacostap@gmail.com>",
   "private": true,
